@@ -26,12 +26,12 @@
 
 Тест добавляет запись в БД, в таблицу orders
 
-| HOST| 192.168.122.1 |
+| HOST| localhost |
 | :------------- |:------------------|
-| LOGIN      | forgate_green |
-| PASSWORD  | mEKCK4SSq8AKhGrLBYAj  |
+| LOGIN      | root |
+| PASSWORD  | 1234  |
 | PORT   | 3306         |
-| DB_NAME   | emulator_green        |
+| DB_NAME   | emulator_store        |
   
   
 Требывание к полям таблицы
